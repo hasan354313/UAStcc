@@ -14,7 +14,7 @@ Untuk menjalankan container berdasarkan docker image, bisa menggunakan perintah 
 Untuk mendapatkan status dari proses deployment dari kubectl, gunakan perintah  `kubectl get deployments`, perintah ini akan menghasilkan output pada terminal seperti pada gambar dibawah ini:
 
 
-sedangkan untuk mendapat status deployement spesifik berdasarkan nama:
+sedangkan untuk mendapat status deployement  berdasarkan nama:
 
 ![Kubernetes2](JPG/2.JPG)
 sedangkan untuk mendapat status deployement spesifik berdasarkan nama:
